@@ -6,10 +6,11 @@ namespace Goldpurp
     {
         static void Main(string[] args)
         {
+            Console.Write("Enter your name: ");
 
             Console.WriteLine("GoldPurp Networking Organization Employee intake");
 
-            Console.WriteLine("Enter Your Age");
+            Console.WriteLine("Enter Your Age")
 
             int age = Convert.ToInt32(Console.ReadLine());
 
